@@ -5,4 +5,5 @@ PRODUCT_PACKAGES += \
 	FossBrowser \
 	newpipe \
 	BlackHole \
-	SimpleGallery
+	SimpleGallery \
+	OpenCamera

@@ -18,6 +18,7 @@ android_app_import {
 	owner: "SimpleMobileApps",
 	apk: "apks/simplegallery.apk",
 	presigned: true,
+	overrides: ["Gallery2"],
 	dex_preopt: {
 		enabled: false,
 	},

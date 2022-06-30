@@ -4,4 +4,5 @@ PRODUCT_SOONG_NAMESPACES += \
 PRODUCT_PACKAGES += \
 	FossBrowser \
 	newpipe \
-	BlackHole
+	BlackHole \
+	SimpleGallery
